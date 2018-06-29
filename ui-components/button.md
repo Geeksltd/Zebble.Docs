@@ -10,28 +10,6 @@
 [csssetting]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/button/CSSSetting.png "Zebble-Button"
 [text]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/button/Text.png "Zebble-Button"
 
-<style>
-.column-left{
-  float: left;
-  width: 65%;
-  text-align: left;
-}
-
-.column-right{
-  float: right;
-  width: 30%;
-  text-align: right;
-  margin: 10px;
-}
-
-.column-right img {
-  border: 1px solid silver;
-}
-
-.clear{
-  clear: both;
-}
-</style>
 
 #### Button
 Button inherits from TextView. It adds some default styling to make it look like a button.
@@ -39,7 +17,7 @@ Button inherits from TextView. It adds some default styling to make it look like
 ##### Basic usage
 
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ```xml
 <Button Id="MyButton" Text="Tap Me!" />
@@ -50,15 +28,15 @@ this.Add(new Button { Text="Tap Me!" });<!-- From a live URL -->
 ```
 
 </div>
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![basicusage]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ##### AutoSize
 ```xml
@@ -68,7 +46,7 @@ this.Add(new Button { Text="Tap Me!" });<!-- From a live URL -->
 ```
 
 </div>
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![autosize0]
 
@@ -76,7 +54,7 @@ this.Add(new Button { Text="Tap Me!" });<!-- From a live URL -->
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
 ##### Enabled & Ignored
 
@@ -85,7 +63,7 @@ Stylesheet has a boolean property named ***Ignored***, which is false by default
 View has a boolean property named ***Enabled***, which is true by default. When set to false the object will not respond to UI gesture events. But it will remain visible. Also, its PseudoCssState will be set to "disabled" which allows you to specify a visual style for it in CSS.
 
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 **MarkUp:**
 ```xml  
@@ -98,13 +76,13 @@ View has a boolean property named ***Enabled***, which is true by default. When 
 
 </div>
 
-<div class="column-right" >
+<div style="float: right;width: 30%; text-align: right;margin: 10px;" >
 
 ![enableandignore]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
 ##### PseudoCssState
 
@@ -120,7 +98,7 @@ You can see some information about Margin & Padding in Zebble here: http://zebbl
 
 ##### Font and color
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ```xml
 <Button Id="MyButton" Text="Tap Me!" Style.TextColor="#AA00BB" Style.Font.Name="Arial" Style.Font.Bold="true"/>
@@ -128,17 +106,17 @@ You can see some information about Margin & Padding in Zebble here: http://zebbl
 
 </div>
 
-<div class="column-right" >
+<div style="float: right;width: 30%; text-align: right;margin: 10px;" >
 
 ![fontandcolor]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
 **Note:** It's strongly recommended avoiding using the Style directly unless you have to. Instead, you should use CSS to apply your styles.
 
-<div class="column-left" >
+<div style="float: left;width: 65%;text-align: left;" >
 
 **MarkUp:**
 
@@ -148,15 +126,15 @@ You can see some information about Margin & Padding in Zebble here: http://zebbl
 
 </div>
 
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![fontandcolor1]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ##### Box Shadow
 
@@ -166,15 +144,15 @@ You can see some information about Margin & Padding in Zebble here: http://zebbl
 
 </div>
 
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![boxshadow]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ##### Text
 
@@ -185,15 +163,15 @@ You can see some information about Margin & Padding in Zebble here: http://zebbl
 
 </div>
 
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![Text]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ##### Position
 
@@ -203,13 +181,13 @@ You can see some information about Margin & Padding in Zebble here: http://zebbl
 
 </div>
 
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![position]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
 ##### TextTransform
 You can set a text transform value to the style or css settings of a button. When you do so, the original Text value will hold the original casing, but when rendered on the platform, the transformation will be applied. It works just like html.
@@ -221,7 +199,7 @@ The supported values are
 - Lowercase
 - Capitalize (first letter of each word will be upper case).
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ```xml
 <Button Text="Hello World!" TextTransform="None"/>
@@ -232,19 +210,19 @@ The supported values are
 
 </div>
 
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![texttransform]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
 ##### Css settings
 
 In addition to all common CSS settings such as border, padding, margin, etc, the following css settings are supported specifically for text view and its descendants such as Button:
 
-<div class="column-left">
+<div style="float: left;width: 65%;text-align: left;">
 
 ```css
 .my-selector {
@@ -259,13 +237,13 @@ In addition to all common CSS settings such as border, padding, margin, etc, the
 
 </div>
 
-<div class="column-right">
+<div style="float: right;width: 30%; text-align: right;margin: 10px;">
 
 ![csssetting]
 
 </div>
 
-<div class="clear" />
+<div style="clear: both;" />
 
 You can set the Css of text view object by following below:
 
