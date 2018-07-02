@@ -4,7 +4,7 @@
 [4]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/installation/installing-xamarin-for-visual-studio/4.png "Zebble-windows"
 [5-1]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/installation/installing-xamarin-for-visual-studio/5-1.png "Zebble-windows"
 [5-2]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/installation/installing-xamarin-for-visual-studio/5-2.png "Zebble-windows"
-[6]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/installation/installing-xamarin-for-visual-studio/7.png "Zebble-windows"
+[6]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/installation/installing-xamarin-for-visual-studio/6.png "Zebble-windows"
 
 ### INSTALLING XAMARIN FOR VISUAL STUDIO
 
