@@ -1,5 +1,5 @@
 [tech&dev]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/what-is-zebble/teck&development.png "Zebble-Intro"
-[extensibility]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/what-is-zebble/extensibility.png "Zebble-Intro"
+[extensibility]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/what-is-zebble/extensibility.jpg "Zebble-Intro"
 
 ### WHAT IS ZEBBLE?
 
