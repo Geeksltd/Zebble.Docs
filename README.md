@@ -4,10 +4,11 @@ This project provides the documentation for [Zebble](https://zebble.net/docs) fr
 
 Documentations
 ============
-- [What is Zebble?](intorduction/index.md)
-    - [Why Zebble?](intorduction/why-zebble.md)
-    - [Structure of a Zebble solution](intorduction/structure-of-a-zebble-solution.md)
-    - [Zebble Designer](introduction/zebble-desginer.md)
+- Intorduction
+  - [What is Zebble?](https://github.com/Geeksltd/Zebble.Docs/blob/master/introduction/what-is-zebble.md)
+  - [Why Zebble?](https://github.com/Geeksltd/Zebble.Docs/blob/master/introduction/why-zebble.md)
+  - [Structure of a Zebble solution](https://github.com/Geeksltd/Zebble.Docs/blob/master/introduction/structure-of-a-zebble-solution.md)
+  - [Zebble Designer](https://github.com/Geeksltd/Zebble.Docs/blob/master/introduction/zebble-designer-uwp.md)
 - Installation
   - [Introduction](https://github.com/Geeksltd/Zebble.Docs/blob/master/installation/introduction.md)
   - [Installing Xamarin for Visual Studio](https://github.com/Geeksltd/Zebble.Docs/blob/master/installation/installing-xamarin-for-visual-studio.md)
