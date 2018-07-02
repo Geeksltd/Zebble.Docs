@@ -1,4 +1,4 @@
-[solution]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/what-is-zebble/solution.png "Zebble-Intro"
+[solution]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/structure-of-a-zebble-solution/solution.png "Zebble-Intro"
 
 
 ### STRUCTURE OF A ZEBBLE SOLUTION
