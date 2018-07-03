@@ -1,4 +1,4 @@
-[border]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/basic-concept/opacity/opacity.png "Zebble-opacity"
+[opacity]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/basic-concept/opacity/opacity.png "Zebble-opacity"
 
 ### OPACITY
 
@@ -17,3 +17,5 @@ Default opacity is 1.0. Values will be clamped between 0 and 1 on set.
 <...    BackgroundImagePath="Images/image.jpg" Opacity="0.25"/>
 <...    BackgroundImagePath="Images/image.jpg" Opacity="0.01"/>
 ```
+
+![opacity]
