@@ -64,6 +64,14 @@ Documentations
   - [Waiting Indicator](https://github.com/Geeksltd/Zebble.Docs/blob/master/ui-components/waiting-indicator.md)
   - [WebView](https://github.com/Geeksltd/Zebble.WebView/blob/master/README.md)
   - [C# Methods and Properties Of UI Components](https://github.com/Geeksltd/Zebble.Docs/blob/master/ui-components/c-methods-and-properties-of-ui-components.md)
-
+- Navigation
+  - [Nav.Forward() vs Nav.Go()](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/navforward-vs-navgo.md)
+  - [Passing parameters to the destination page](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/passing-parameters-to-the-destination-page.md)
+  - [Going Back](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/going-back.md)
+  - [Showing Popup pages](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/showing-popup-pages.md)
+  - [Waiting class](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/waiting-class.md)
+  - [Hardware Back button (e.g. Android)](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/hardware-back-button-eg-android.md)
+  - [Caching (pages)](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/caching-pages.md)
+  - [Navigation without event handler](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/navigation-without-event-handler.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
