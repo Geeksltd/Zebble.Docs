@@ -29,6 +29,16 @@ Documentations
   - [Opacity](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/opacity.md)
   - [Zebble Markup(.zbl files)](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/zebble-markup-zbl-files.md)
   - [Data binding and MVVM](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/data-binding-and-mvvm.md)
+- Layouts
+  - [Stack class](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/stack-class.md)
+  - [Page class](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/page-class.md)
+  - [Sizing and positioning](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/sizing-and-positioning.md)
+  - [ScrollView class](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/scrollview-class.md)
+  - [FormField class](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/formfield-class.md)
+  - [NavBarPage class](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/navbarpage-class.md)
+  - [NavBarTabsPage class](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/navbartabspagettabs-class.md)
+  - [LazyLoader](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/lazyloader.md)
+  - [Layout examples](https://github.com/Geeksltd/Zebble.Docs/blob/master/layouts/layout-examples.md)
 - UI components
   - [Button](ui-components/button.md)
   - [Carousel](https://github.com/Geeksltd/Zebble.Carousel/blob/master/README.md)
