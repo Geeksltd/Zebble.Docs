@@ -18,6 +18,17 @@ Documentations
   - [Visual Studio Extensions](https://github.com/Geeksltd/Zebble.Docs/blob/master/installation/visual-studio-extensions.md)
   - [Preparing the Mac for Xamarin development](https://github.com/Geeksltd/Zebble.Docs/blob/master/installation/preparing-the-mac-for-xamarin-development.md)
   - [Preparing Visual Studio for installing Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/installation/preparing-visual-studio-for-installing-zebble.md)
+- Basic concepts
+  - [View class](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/view-class.md)
+  - [Gap class](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/gap-class.md)
+  - [Visible vs Ignored vs Enabled](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/visible-vs-ignored-vs-enabled.md)
+  - [Rotation in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/rotation-in-zebble.md)
+  - [Margin & Padding](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/margin-padding.md)
+  - [Background properties of components](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/background-properties-of-components.md)
+  - [Border properties of components](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/border-properties-of-components.md)
+  - [Opacity](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/opacity.md)
+  - [Zebble Markup(.zbl files)](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/zebble-markup-zbl-files.md)
+  - [Data binding and MVVM](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/data-binding-and-mvvm.md)
 - UI components
   - [Button](ui-components/button.md)
   - [Carousel](https://github.com/Geeksltd/Zebble.Carousel/blob/master/README.md)
