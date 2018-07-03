@@ -57,9 +57,13 @@ Documentations
   - [SearchInput](https://github.com/Geeksltd/Zebble.searchinput/blob/master/README.md)
   - [Slider](https://github.com/Geeksltd/Zebble.slider/blob/master/README.md)
   - [Switch](https://github.com/Geeksltd/Zebble.switch/blob/master/README.md)
+  - [Tabs class](https://github.com/Geeksltd/Zebble.NavBarTabs/blob/master/README.md)
   - [TextInput](ui-components/textinput.md)
   - [TextView](ui-components/textview.md)
+  - [TreeView](https://github.com/Geeksltd/Zebble.Docs/blob/master/ui-components/treeview.md)
+  - [Waiting Indicator](https://github.com/Geeksltd/Zebble.Docs/blob/master/ui-components/waiting-indicator.md)
   - [WebView](https://github.com/Geeksltd/Zebble.WebView/blob/master/README.md)
+  - [C# Methods and Properties Of UI Components](https://github.com/Geeksltd/Zebble.Docs/blob/master/ui-components/c-methods-and-properties-of-ui-components.md)
 
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
