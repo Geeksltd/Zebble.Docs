@@ -99,5 +99,7 @@ Documentations
   - [Not awaiting (running in parallel)](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/not-awaiting-running-in-parallel.md)
   - [Timer (interval / scheduled running)](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/timer-interval-scheduled-running.md)
   - [Post-render changes to the UI (dynamic)](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/post-render-changes-to-the-ui-dynamic.md)
+- Handling Files and Resources
+  - [Cache and temp files and folders](https://github.com/Geeksltd/Zebble.Docs/blob/master/handling-files-and-resources/cache-and-temp-files-and-folders.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
