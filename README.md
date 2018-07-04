@@ -86,5 +86,11 @@ Documentations
   - [CSS property mapping to Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/css-property-mapping-to-zebble.md)
   - [Using Bold and Light Fonts in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/using-bold-and-light-fonts-in-zebble.md)
   - [Using custom fonts in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/using-custom-fonts-in-zebble.md)
+- Debugging
+  - [Use the Windows version](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/use-the-windows-version.md)
+  - [Logging messages for Debugging](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/logging-messages-for-debugging.md)
+  - [Stepping into Zebble source](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/stepping-into-zebble-source.md)
+  - [Exception handling in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/exception-handling-in-zebble.md)
+  - [Debugging layout and styles](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/debugging-layout-and-styles.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
