@@ -92,6 +92,15 @@ Documentations
   - [Stepping into Zebble source](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/stepping-into-zebble-source.md)
   - [Exception handling in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/exception-handling-in-zebble.md)
   - [Debugging layout and styles](https://github.com/Geeksltd/Zebble.Docs/blob/master/debugging/debugging-layout-and-styles.md)
+- Device & Environment
+  - [Zebble Device API](https://github.com/Geeksltd/Zebble.Docs/blob/master/device-environment/zebble-device-api.md)
+  - [Device.Screen and orientation (landscape | portrait)](https://github.com/Geeksltd/Zebble.Docs/blob/master/device-environment/devicescreen-and-orientation-landscape-portrait.md)
+  - [Code that should run on a specific platform](https://github.com/Geeksltd/Zebble.Docs/blob/master/device-environment/code-that-should-run-on-a-specific-platform.md)
+  - [Using Lamp (aka Flash, LED and Torch)](https://github.com/Geeksltd/Zebble.Torch/blob/master/README.md)
+  - [Using Compass (Smooth compass)](https://github.com/Geeksltd/Zebble.SmoothCompass/blob/master/README.md)
+  - [Using Accelerometer (device angle)](https://github.com/Geeksltd/Zebble.Sensors/blob/master/README.md#accelerometer-device-angle)
+  - [Using Gyroscope (device motion speed)](https://github.com/Geeksltd/Zebble.Sensors/blob/master/README.md#gyroscope-device-motion-speed)
+  - [How to Vibrate the device?](https://github.com/Geeksltd/Zebble.Vibration/blob/master/README.md)
 - Async programming & Multi-threading
   - [C# async / await](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/c-async-await.md)
   - [Understanding Zebble Threading](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/understanding-zebble-threading.md)
