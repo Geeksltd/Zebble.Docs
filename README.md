@@ -73,5 +73,18 @@ Documentations
   - [Hardware Back button (e.g. Android)](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/hardware-back-button-eg-android.md)
   - [Caching (pages)](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/caching-pages.md)
   - [Navigation without event handler](https://github.com/Geeksltd/Zebble.Docs/blob/master/navigation/navigation-without-event-handler.md)
+- Styling
+  - [Styling in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/styling-in-zebble.md)
+  - [Supported selectors](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/supported-selectors.md)
+  - [Zebble CSS: Under the hood](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/zebble-css-under-the-hood.md)
+  - [CSS real-time updates](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/css-real-time-updates.md)
+  - [Dynamic expressions in CSS](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/dynamic-expressions-in-css.md)
+  - [Gradient background colours](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/gradient-background-colours.md)
+  - [CSS Pseudo-classes support](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/css-pseudo-classes-support.md)
+  - [Flashing on tap using AutoFlash](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/flashing-on-tap-using-autoflash.md)
+  - [Inline styling](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/inline-styling.md)
+  - [CSS property mapping to Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/css-property-mapping-to-zebble.md)
+  - [Using Bold and Light Fonts in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/using-bold-and-light-fonts-in-zebble.md)
+  - [Using custom fonts in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/styling/using-custom-fonts-in-zebble.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
