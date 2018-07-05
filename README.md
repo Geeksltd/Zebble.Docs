@@ -181,5 +181,9 @@ Documentations
   - [GET APIs](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/get-apis.md)
   - [Calling a GET API (in the mobile app)](https://github.com/Geeksltd/Zebble.WebApi/blob/master/README.md#calling-a-get-api-in-the-mobile-app)
   - [POST, PUT, PATCH and DELETE APIs](https://github.com/Geeksltd/Zebble.WebApi/blob/master/README.md#post-put-patch-and-delete-apis)
+  - [Domain Model](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/domain-model.md)
+  - [Web API and Authentication](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/web-api-and-authentication.md)
+  - [Versioning](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/versioning.md)
+  - [Uniquely identifying installations (token)](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/uniquely-identifying-installations-token.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
