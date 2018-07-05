@@ -149,5 +149,12 @@ Documentations
   - [Testing mobile apps](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/testing-mobile-apps.md)
   - [Xamarin Profiler](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/xamarin-profiler.md)
   - [Performance optimization](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/performance-optimization.md)
+- Tips & How-tos
+  - [Moving a view to another container at run-time](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/moving-a-view-to-another-container-at-run-time.md)
+  - [Attaching custom data (tag) to objects](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/attaching-custom-data-tag-to-objects.md)
+  - [Saving a view as image](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/saving-a-view-as-image.md)
+  - [Naming best practices](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/naming-best-practices.md)
+  - [Fastest way to update your nuget package](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/fastest-way-to-update-your-nuget-package.md)
+  - [Tips for Clean and Brief code ](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/tips-for-clean-and-brief-code.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
