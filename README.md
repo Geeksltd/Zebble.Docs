@@ -188,5 +188,8 @@ Documentations
 - Configuration
   - [Settings file: config.xml](https://github.com/Geeksltd/Zebble.Docs/blob/master/configuration/settings-file-configxml.md)
   - [Standard Zebble settings](https://github.com/Geeksltd/Zebble.Docs/blob/master/configuration/standard-zebble-settings.md)
+- Plugins & 3rd Party Integration
+  - [Login/Register with Facebook](https://github.com/Geeksltd/Zebble.Facebook/blob/master/README.md)
+  - [Mapbox](https://github.com/Geeksltd/Zebble.MapBox/blob/master/README.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
