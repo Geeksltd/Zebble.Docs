@@ -10,7 +10,7 @@ In this lesson, you will learn:
 
 [Download this video directly](https://drive.google.com/file/d/0B3EED8dgociySWxtU2ZvVWE5eUE/view?usp=sharing)
 
-[![MAP & LOCATION SERVICES](https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/debugging/location-maps/map&location.png)](https://youtu.be/8wE1MKDbwE0)
+[![MAP & LOCATION SERVICES](https://github.com/Geeksltd/Zebble.Docs/blob/master/assets/location-maps/map&location.png?raw=true)](https://youtu.be/8wE1MKDbwE0)
 
 #### Map component
 
