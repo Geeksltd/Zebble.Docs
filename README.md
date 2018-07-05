@@ -142,5 +142,12 @@ Documentations
   - [Recording or picking video](https://github.com/Geeksltd/Zebble.Media/blob/master/README.md#taking-media)
   - [Playing remote videos in iOS](https://github.com/Geeksltd/Zebble.Docs/blob/master/media/playing-remote-videos-in-ios.md)
   - [Text to speech](https://github.com/Geeksltd/Zebble.Speech/blob/master/README.md#read-a-text) 
+- Testing & Performance
+  - [Introduction to the importance of Mobile Testing](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/introduction-to-the-importance-of-mobile-testing.md)
+  - [Why and what to test](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/why-and-what-to-test.md)
+  - [Testing mobile apps on different devices](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/testing-mobile-apps-on-different-devices.md)
+  - [Testing mobile apps](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/testing-mobile-apps.md)
+  - [Xamarin Profiler](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/xamarin-profiler.md)
+  - [Performance optimization](https://github.com/Geeksltd/Zebble.Docs/blob/master/testing/performance-optimization.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
