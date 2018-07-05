@@ -127,8 +127,8 @@ Documentations
   - [Introduction of Geo location](https://github.com/Geeksltd/Zebble.Docs/blob/master/location-maps/introduction-of-geo-location.md)
   - [Map & Location Services](https://github.com/Geeksltd/Zebble.Docs/blob/master/location-maps/map-location-services.md)
   - [Launch directions to a location (external)](https://github.com/Geeksltd/Zebble.Location/blob/master/README.md#launchdirections)
-  - [Getting current Location](https://github.com/Geeksltd/Zebble.Location#getcurrentposition)
-  - [Tracking user location]()
+  - [Getting current Location](https://github.com/Geeksltd/Zebble.Location/blob/master/README.md#getcurrentposition)
+  - [Tracking user location](https://github.com/Geeksltd/Zebble.Location/blob/master/README.md#tracking-user-location)
 - Handling Files and Resources
   - [Cache and temp files and folders](https://github.com/Geeksltd/Zebble.Docs/blob/master/handling-files-and-resources/cache-and-temp-files-and-folders.md)
 ### Authors
