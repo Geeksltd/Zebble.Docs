@@ -194,5 +194,8 @@ Documentations
   - [Creating a Zebble component using Html and Javascript](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/creating-a-zebble-component-using-html-and-javascript.md)
   - [CustomRenderedView: Third-party native components / plugins](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/customrenderedview-third-party-native-components-plugins.md)
   - [Mapbox](https://github.com/Geeksltd/Zebble.MapBox/blob/master/README.md)
+- Advanced Geeky Tips
+  - [How to debug Zebble.Exe?](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/how-to-debug-zebbleexe.md)
+  - [How to add a Device API to Zebble source?](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/how-to-add-a-device-api-to-zebble-source.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
