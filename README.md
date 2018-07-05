@@ -156,5 +156,15 @@ Documentations
   - [Naming best practices](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/naming-best-practices.md)
   - [Fastest way to update your nuget package](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/fastest-way-to-update-your-nuget-package.md)
   - [Tips for Clean and Brief code ](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/tips-for-clean-and-brief-code.md)
+- Publishing
+  - [Splash screen and icon generation](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/splash-screen-and-icon-generation.md)
+  - [Advice for passing Approval](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/advice-for-passing-approval.md)
+  - [Options for iOS app distribution](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/options-for-ios-app-distribution.md)
+  - [Test Release (internal and UAT)](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/test-release-internal-and-uat.md)
+  - [Application Icons in IOS](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/application-icons-in-ios.md)
+  - [Submitting to App Store](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/submitting-to-app-store.md)
+  - [Releasing to App Store](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/releasing-to-app-store.md)
+  - [Crash reporting](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/crash-reporting.md)
+  - [Optimized Release Build](https://github.com/Geeksltd/Zebble.Docs/blob/master/publishing/optimized-release-build.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
