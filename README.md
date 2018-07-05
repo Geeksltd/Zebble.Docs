@@ -123,6 +123,12 @@ Documentations
   - [Not awaiting (running in parallel)](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/not-awaiting-running-in-parallel.md)
   - [Timer (interval / scheduled running)](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/timer-interval-scheduled-running.md)
   - [Post-render changes to the UI (dynamic)](https://github.com/Geeksltd/Zebble.Docs/blob/master/async-programming-multi-threading/post-render-changes-to-the-ui-dynamic.md)
+- Location & Maps
+  - [Introduction of Geo location](https://github.com/Geeksltd/Zebble.Docs/blob/master/location-maps/introduction-of-geo-location.md)
+  - [Map & Location Services](https://github.com/Geeksltd/Zebble.Docs/blob/master/location-maps/map-location-services.md)
+  - [Launch directions to a location (external)](https://github.com/Geeksltd/Zebble.Location/blob/master/README.md#launchdirections)
+  - [Getting current Location](https://github.com/Geeksltd/Zebble.Location#getcurrentposition)
+  - [Tracking user location]()
 - Handling Files and Resources
   - [Cache and temp files and folders](https://github.com/Geeksltd/Zebble.Docs/blob/master/handling-files-and-resources/cache-and-temp-files-and-folders.md)
 ### Authors
