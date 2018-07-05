@@ -173,5 +173,13 @@ Documentations
   - [Push notification setup - Android](https://github.com/Geeksltd/Zebble.PushNotification/blob/master/README.md#android)
   - [Push notification setup - Windows](https://github.com/Geeksltd/Zebble.PushNotification/blob/master/README.md#uwp)
   - [Sending a push message from the web app](https://github.com/Geeksltd/Zebble.Docs/blob/master/push-notification/sending-a-push-message-from-the-web-app.md)
+- Data & WebAPI
+  - [Introduction](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/introduction.md)
+  - [Connecting Zebble to Web API](https://github.com/Geeksltd/Zebble.WebApi/blob/master/README.md#connecting-zebble-to-web-api)
+  - [Installation](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/installation.md)
+  - [Creating an API class](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/creating-an-api-class.md)
+  - [GET APIs](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/get-apis.md)
+  - [Calling a GET API (in the mobile app)](https://github.com/Geeksltd/Zebble.WebApi/blob/master/README.md#calling-a-get-api-in-the-mobile-app)
+  - [POST, PUT, PATCH and DELETE APIs](https://github.com/Geeksltd/Zebble.WebApi/blob/master/README.md#post-put-patch-and-delete-apis)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
