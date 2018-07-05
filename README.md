@@ -131,5 +131,16 @@ Documentations
   - [Tracking user location](https://github.com/Geeksltd/Zebble.Location/blob/master/README.md#tracking-user-location)
 - Handling Files and Resources
   - [Cache and temp files and folders](https://github.com/Geeksltd/Zebble.Docs/blob/master/handling-files-and-resources/cache-and-temp-files-and-folders.md)
+- Photo, Video and Audio
+  - [Device.Media: Taking and picking photos](https://github.com/Geeksltd/Zebble.Media/blob/master/README.md)
+  - [Playing an audio file](https://github.com/Geeksltd/Zebble.Audio/blob/master/README.md#play-audio)
+  - [VideoPlayer class](https://github.com/Geeksltd/Zebble.VideoPlayer/blob/master/README.md)
+  - [Augmented reality](https://github.com/Geeksltd/Zebble.AugmentedReality/blob/master/README.md)
+  - [Recording audio](https://github.com/Geeksltd/Zebble.Audio/blob/master/README.md#record-audio)
+  - [Virtual Reality](https://github.com/Geeksltd/Zebble.Docs/blob/master/media/virtual-reality.md)
+  - [Speech Recognition](https://github.com/Geeksltd/Zebble.Speech/blob/master/README.md)
+  - [Recording or picking video](https://github.com/Geeksltd/Zebble.Media/blob/master/README.md#taking-media)
+  - [Playing remote videos in iOS](https://github.com/Geeksltd/Zebble.Docs/blob/master/media/playing-remote-videos-in-ios.md)
+  - [Text to speech](https://github.com/Geeksltd/Zebble.Speech/blob/master/README.md#read-a-text) 
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
