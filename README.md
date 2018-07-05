@@ -190,6 +190,9 @@ Documentations
   - [Standard Zebble settings](https://github.com/Geeksltd/Zebble.Docs/blob/master/configuration/standard-zebble-settings.md)
 - Plugins & 3rd Party Integration
   - [Login/Register with Facebook](https://github.com/Geeksltd/Zebble.Facebook/blob/master/README.md)
+  - [Creating a composite component / plugin](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/creating-a-composite-component-plugin.md)
+  - [Creating a Zebble component using Html and Javascript](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/creating-a-zebble-component-using-html-and-javascript.md)
+  - [CustomRenderedView: Third-party native components / plugins](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/customrenderedview-third-party-native-components-plugins.md)
   - [Mapbox](https://github.com/Geeksltd/Zebble.MapBox/blob/master/README.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
