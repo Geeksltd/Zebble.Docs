@@ -185,5 +185,8 @@ Documentations
   - [Web API and Authentication](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/web-api-and-authentication.md)
   - [Versioning](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/versioning.md)
   - [Uniquely identifying installations (token)](https://github.com/Geeksltd/Zebble.Docs/blob/master/web-api/uniquely-identifying-installations-token.md)
+- Configuration
+  - [Settings file: config.xml](https://github.com/Geeksltd/Zebble.Docs/blob/master/configuration/settings-file-configxml.md)
+  - [Standard Zebble settings](https://github.com/Geeksltd/Zebble.Docs/blob/master/configuration/standard-zebble-settings.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
