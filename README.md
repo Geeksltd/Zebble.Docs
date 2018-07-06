@@ -209,5 +209,9 @@ Documentations
 - Advanced Geeky Tips
   - [How to debug Zebble.Exe?](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/how-to-debug-zebbleexe.md)
   - [How to add a Device API to Zebble source?](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/how-to-add-a-device-api-to-zebble-source.md)
+- Automated UI Testing
+  - [About Automated UI testing](https://github.com/Geeksltd/Zebble.Docs/blob/master/automated-ui-testing/about-automated-ui-testing.md)
+  - [What should we test in mobile applications?](https://github.com/Geeksltd/Zebble.Docs/blob/master/automated-ui-testing/what-should-we-test-in-mobile-applications.md)
+  - [Creating an Automated UI Test in Zebble](https://github.com/Geeksltd/Zebble.Docs/blob/master/automated-ui-testing/creating-an-automated-ui-test-in-zebble.md)
 ### Authors
 This project is maintained and supported by the [GeeksLtd](https://www.geeks.ltd.uk).
