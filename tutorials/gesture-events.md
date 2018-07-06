@@ -111,7 +111,7 @@ return Task.CompletedTask;
 
 Every view has a long press event. When you hold an element with your finger for a full second it will be fired.
 
-**Note:** In Windows desktop (during development), you fire that event by right clicking the object instead of holding the mouse key down.
+**Note:** In Windows desktop (during development), you fire that event by **right clicking** the object instead of holding the mouse key down.
 
 ![6]
 
@@ -205,7 +205,7 @@ Try the following example, which makes a draggable object that you can freely mo
 
 Previously events like Tapped and LongPressed optionally provided an event argument of type Point. 
 
-Now all gesture events provide a single XXXEventArgs argument which will wrap the other parameters in them.
+Now all gesture events provide a single **XXXEventArgs** argument which will wrap the other parameters in them.
 
 ```csharp
 Task BoardPanning(PannedEventArgs args)
@@ -257,7 +257,7 @@ This event is fired when the user uses two fingers that go towards or away from 
 
 The primary use case for this is to implement a custom zoom-in or zoom-out behaviour.
 
-**Note:** In Windows desktop (during development) you should hold the Ctrl key and turn the mouse wheel up or down to invoke this event.
+**Note:** In **Windows** desktop (during development) you should hold the **Ctrl** key and turn the mouse wheel up or down to invoke this event.
 
 ![11]
  
