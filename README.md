@@ -40,6 +40,7 @@ Documentations
   - [Web Api - Part 1 (reading data)](https://github.com/Geeksltd/Zebble.Docs/blob/master/tutorials/web-api-part-1-reading-data.md)
   - [Web Api - Part 2 (post and delete)](https://github.com/Geeksltd/Zebble.Docs/blob/master/tutorials/web-api-part-2-post-and-delete.md)
   - [Web Api - Part 3 (server vs client domain model)](https://github.com/Geeksltd/Zebble.Docs/blob/master/tutorials/web-api-part-3-server-vs-client-domain-model.md)
+  - [Gesture events](https://github.com/Geeksltd/Zebble.Docs/blob/master/tutorials/gesture-events.md) 
 - Basic concepts
   - [View class](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/view-class.md)
   - [Gap class](https://github.com/Geeksltd/Zebble.Docs/blob/master/basic-concepts/gap-class.md)
