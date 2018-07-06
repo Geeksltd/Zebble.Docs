@@ -194,6 +194,18 @@ Documentations
   - [Creating a Zebble component using Html and Javascript](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/creating-a-zebble-component-using-html-and-javascript.md)
   - [CustomRenderedView: Third-party native components / plugins](https://github.com/Geeksltd/Zebble.Docs/blob/master/plugin/customrenderedview-third-party-native-components-plugins.md)
   - [Mapbox](https://github.com/Geeksltd/Zebble.MapBox/blob/master/README.md)
+- Setup & Troubleshooting Tips
+  - [Naming considerations](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/naming-considerations.md)
+  - [Random problems?](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/random-problems.md)
+  - [Display Keyboard for Visual Studio Android Emulator](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/display-keyboard-for-visual-studio-android-emulator.md)
+  - [iOS goes mad?](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/ios-goes-mad.md)
+  - [Configuring a Windows phone for ad-hoc testing](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/configuring-a-windows-phone-for-ad-hoc-testing.md)
+  - [Fixing Error DEP0001 : Unexpected Error: -2147009287 while deploying Windows UWP app on device](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/fixing-error-dep0001-unexpected-error-2147009287-while-deploying-windows-uwp-app-on-device.md)
+  - [Fixing Error DEP0001 : Unexpected Error: -1988945906 while deploying Windows UWP app on device](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/fixing-error-dep0001-unexpected-error-1988945906-while-deploying-windows-uwp-app-on-device.md)
+  - [Unable tp Connect to the Mac agent from Visual Studio](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/unable-tp-connect-to-the-mac-agent-from-visual-studio.md)
+  - [Can't connect to the Mac agent from Visual Studio?](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/cant-connect-to-the-mac-agent-from-visual-studio.md)
+  - [Slow Visual Studio (eating lots of CPU)?](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/slow-visual-studio-eating-lots-of-cpu.md)
+  - [Choosing the CPU architecture](https://github.com/Geeksltd/Zebble.Docs/blob/master/setup/choosing-the-cpu-architecture.md)
 - Advanced Geeky Tips
   - [How to debug Zebble.Exe?](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/how-to-debug-zebbleexe.md)
   - [How to add a Device API to Zebble source?](https://github.com/Geeksltd/Zebble.Docs/blob/master/tips-howtos/how-to-add-a-device-api-to-zebble-source.md)
