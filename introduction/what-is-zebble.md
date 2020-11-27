@@ -1,5 +1,4 @@
 [tech&dev]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/what-is-zebble/teck&development.png "Zebble-Intro"
-[extensibility]: https://raw.githubusercontent.com/Geeksltd/Zebble.Docs/master/assets/introduction/what-is-zebble/extensibility.jpg "Zebble-Intro"
 
 ### WHAT IS ZEBBLE?
 
@@ -27,8 +26,6 @@ It is a platform to develop cross-platform and multi-platform apps (Windows phon
  
 **Extensibility:** Zebble UI system has a small core, i.e. view objects that actually mapped to native controls. All other components are just composed of other Zebble views. To create new custom controls, you also just put Zebble view objects together and don't have to deal with the platform specific rendering.
  
-![extensibility]
-
 **Managing Resources:** In Xamarin Forms, the app resources are duplicated in each platform-specific wrapper project, making it harder to manage them. Zebble gives you a central location to store files, and manages all the bundling, etc automatically.
 
 #### Visual Design
